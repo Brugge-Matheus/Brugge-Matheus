@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Brugge 🤙🏼
 
-[![Blog](https://img.shields.io/website?label=MeuPortifolio.com&style=for-the-badge&url=https://MeuPortifolio.com/)](https://MeuPortifolio.com)
+<!--[![Blog](https://img.shields.io/website?label=MeuPortifolio.com&style=for-the-badge&url=https://MeuPortifolio.com/)](https://MeuPortifolio.com)-->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Bruggezin)
 
 ![Brugge GitHub stats](https://github-readme-stats.vercel.app/api?username=Brugge-Matheus&show_icons=true&theme=dracula&count_private=true)
