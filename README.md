@@ -22,10 +22,6 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em cri
 ## Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brugge-Matheus&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brugge-Matheus&theme=dracula" alt="GitHub Streak" />
 </div>
 
